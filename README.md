@@ -1,5 +1,5 @@
 # Calculator-in-assembly-language
-EGCO334 (Microprocessor and Interface)
+(Microprocessor and Interface)
 
 Requirement program 
 1. Atmel Studio
